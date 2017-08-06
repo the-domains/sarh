@@ -1,0 +1,25 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: sarh
+layout_spectrum: 0.32464234437793493
+typography_spectrum: 0.27883992181159556
+color:
+  brandStrength: 0.5584879878442734
+  lightness: 0.5962133554276079
+  saturation: 0.7598192554432899
+  rhythmicContrast: 0.5635849903337657
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+content: []
+github: true
+content_rating:
+  adult: false
